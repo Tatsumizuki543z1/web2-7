@@ -1,5 +1,5 @@
 //答えを用意
-var number = Math.floor(Math.rondom()*3);
+var number = Math.floor(Math.random()*3);
 var answer = parseInt(window.prompt('数当てゲーム。0~2の数字を入力してください！'));
 
 var message;
